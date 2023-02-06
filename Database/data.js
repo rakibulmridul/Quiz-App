@@ -1,49 +1,103 @@
 export default [
     {
         id: 1,
-        question : "Javascript is an _______ language",
+        question : "Which one of the following types of waves are used in a night vision apparatus?",
         options : [
-            'Object-Oriented',
-            'Object-Based',
-            'Procedural',
+            'Radio waves',
+            'Microwaves',
+            'Infra-red waves',
         ]
     },
     {
         id: 2,
-        question : "Following methods can be used to display data in some form using Javascript",
+        question : "The blue colour of the clear sky is due to",
         options : [
-            'document.write()',
-            'console.log()',
-            'window.alert()',
+            'Diffraction of light',
+            'Dispersion of light',
+            'Reflection of light',
         ]
     },
     {
         id: 3,
-        question : "When an operator value is NULL, the typeof returned by the unary operator is:",
+        question : "In fireworks, the green flame is produced because of",
         options : [
-            'Boolean',
-            'Undefined',
-            'Object',
+            'Sodium',
+            'Barium',
+            'Potassiumt',
         ]
     },
     {
         id: 4,
-        question : "What does the toString() method return?",
+        question : "The first news paper in the world was started by",
         options : [
-            'Return Object',
-            'Return String',
-            'Return Integer'
+            'Japan',
+            'China',
+            'USA'
         ]
     },
     {
         id: 5,
-        question : "Which function is used to serialize an object into a JSON string?",
+        question : "Who is known as Man of Blood and Iron",
         options : [
-            'stringify()',
-            'parse()',
-            'convert()',
+            'Napoleon',
+            ' Ho Chi Minh',
+            'Bismarck',
+        ]
+    },
+    {
+        id: 6,
+        question : "Who is known as Man of Blood and Iron",
+        options : [
+            'Napoleon',
+            ' Ho Chi Minh',
+            'Bismarck',
+        ]
+    },{
+        id: 7,
+        question : "Who is known as Man of Blood and Iron",
+        options : [
+            'Napoleon',
+            ' Ho Chi Minh',
+            'Bismarck',
+        ]
+    },
+    {
+        id: 8,
+        question : "Who is known as Man of Blood and Iron",
+        options : [
+            'Napoleon',
+            ' Ho Chi Minh',
+            'Bismarck',
+        ]
+    },
+    {
+    id: 9,
+    question : "Who is known as Man of Blood and Iron",
+    options : [
+        'Napoleon',
+        ' Ho Chi Minh',
+        'Bismarck',
+    ]
+    },
+    {
+        id: 10,
+        question : "Who is known as Man of Blood and Iron",
+        options : [
+            'Napoleon',
+            ' Ho Chi Minh',
+            'Bismarck',
+        ]
+    },
+    {
+        id: 11,
+        question : "Who is known as Man of Blood and Iron",
+        options : [
+            'Napoleon',
+            ' Ho Chi Minh',
+            'Bismarck',
         ]
     }
+
 ];
 
 export const answers = [0, 1, 2, 1, 0];
