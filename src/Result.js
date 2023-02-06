@@ -7,8 +7,8 @@ import { useDispatch, useSelector } from 'react-redux';
 import { attempts_Number, earnPoints_Number, flagResult } from '../helper/helper';
 
 /** import actions  */
-import { resetAllAction } from '../redux/question_reducer';
-import { resetResultAction } from '../redux/result_reducer';
+import { resetAllAction } from './redux/question_reducer';
+import { resetResultAction } from './redux/result_reducer';
 import { usePublishResult } from '../hooks/setResult';
 
 

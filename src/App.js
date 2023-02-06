@@ -1,12 +1,11 @@
-
-import './App.css';
+import '../styles/App.css';
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
 /** import components */
-import Main from './Main';
-import Quiz from './Quiz';
-import Result from './Result';
+import Main from '../src/Main';
+import Quiz from '../src/Quiz';
+import Result from '../src/Result';
 import { CheckUserExist } from '../helper/helper';
 
 
